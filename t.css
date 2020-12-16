@@ -1,0 +1,44 @@
+.a{
+    color: blue;
+    font-style: bold;
+    font-size: 60px;
+    padding :0px;
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+}
+td{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    width: 1%;
+    background-color: lightblue;
+    border: 2px;
+    border-style: solid;
+    border-color: none;
+    width: 5%;
+}
+th{
+    font-size: 15px;
+    color: black;
+    text-align:center;
+    background-color: lightgray;
+    border: 2px;
+    border-style: solid;
+    border-color: none;
+    width: 1%;
+}
+th :hover{
+    color: rgb(255, 255, 255);
+}
+td :hover{
+    color: white;
+}
+body{
+    display: flexbox;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.al{
+    font-size: 20px;
+}
